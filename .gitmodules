@@ -1,5 +1,30 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/grantmcdermott/universe
 	shallow = true
 	branch = HEAD
+[submodule "ggiplot"]
+	path = ggiplot
+	url = https://github.com/grantmcdermott/ggiplot
+	shallow = true
+	registered = true
+[submodule "lecturenotes"]
+	path = lecturenotes
+	url = https://github.com/grantmcdermott/lecturenotes
+	shallow = true
+	registered = true
+[submodule "lfe2fixest"]
+	path = lfe2fixest
+	url = https://github.com/grantmcdermott/lfe2fixest
+	shallow = true
+	registered = true
+[submodule "parttree"]
+	path = parttree
+	url = https://github.com/grantmcdermott/parttree
+	shallow = true
+	registered = true
+[submodule "ritest"]
+	path = ritest
+	url = https://github.com/grantmcdermott/ritest
+	shallow = true
+	registered = true
