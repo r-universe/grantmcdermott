@@ -1,0 +1,15 @@
+[
+  {
+    "package": "tinytest",
+    "url": "https://github.com/markvanderloo/tinytest",
+    "via": ["ggiplot"],
+    "subdir": "pkg",
+    "from": "ggiplot"
+  },
+  {
+    "package": "tinyviztest",
+    "url": "https://github.com/vincentarelbundock/tinyviztest",
+    "via": ["ggiplot"],
+    "from": "ggiplot"
+  }
+]

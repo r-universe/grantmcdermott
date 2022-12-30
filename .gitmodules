@@ -28,3 +28,14 @@
 	url = https://github.com/grantmcdermott/ritest
 	shallow = true
 	registered = true
+[submodule "tinytest"]
+	path = tinytest
+	url = https://github.com/markvanderloo/tinytest
+	shallow = true
+	subdir = pkg
+	registered = false
+[submodule "tinyviztest"]
+	path = tinyviztest
+	url = https://github.com/vincentarelbundock/tinyviztest
+	shallow = true
+	registered = false
