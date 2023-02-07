@@ -1,17 +1,21 @@
 [
   {
+    "package": "etwfe",
+    "oncran": true
+  },
+  {
     "package": "ggiplot"
-  },
-  {
-    "package": "lecturenotes"
-  },
-  {
-    "package": "lfe2fixest"
   },
   {
     "package": "parttree"
   },
   {
     "package": "ritest"
+  },
+  {
+    "package": "lecturenotes"
+  },
+  {
+    "package": "lfe2fixest"
   }
 ]
