@@ -1,5 +1,11 @@
 [
   {
+    "package": "marginaleffects",
+    "url": "https://github.com/vincentarelbundock/marginaleffects",
+    "via": ["etwfe"],
+    "from": "etwfe"
+  },
+  {
     "package": "tinytest",
     "url": "https://github.com/markvanderloo/tinytest",
     "via": ["ggiplot"],
