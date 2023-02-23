@@ -33,11 +33,6 @@
 	url = https://github.com/grantmcdermott/lfe2fixest
 	shallow = true
 	registered = true
-[submodule "marginaleffects"]
-	path = marginaleffects
-	url = https://github.com/vincentarelbundock/marginaleffects
-	shallow = true
-	registered = false
 [submodule "tinytest"]
 	path = tinytest
 	url = https://github.com/markvanderloo/tinytest
