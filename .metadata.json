@@ -4,9 +4,6 @@
     "oncran": true
   },
   {
-    "package": "ggiplot"
-  },
-  {
     "package": "parttree"
   },
   {

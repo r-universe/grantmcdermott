@@ -8,11 +8,6 @@
 	url = https://github.com/grantmcdermott/etwfe
 	shallow = true
 	registered = true
-[submodule "ggiplot"]
-	path = ggiplot
-	url = https://github.com/grantmcdermott/ggiplot
-	shallow = true
-	registered = true
 [submodule "parttree"]
 	path = parttree
 	url = https://github.com/grantmcdermott/parttree
