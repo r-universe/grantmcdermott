@@ -18,6 +18,11 @@
 	url = https://github.com/grantmcdermott/parttree
 	shallow = true
 	registered = true
+[submodule "plot2"]
+	path = plot2
+	url = https://github.com/grantmcdermott/plot2
+	shallow = true
+	registered = true
 [submodule "ritest"]
 	path = ritest
 	url = https://github.com/grantmcdermott/ritest
