@@ -38,8 +38,3 @@
 	url = https://github.com/grantmcdermott/lfe2fixest
 	shallow = true
 	registered = true
-[submodule "tinysnapshot"]
-	path = tinysnapshot
-	url = https://github.com/vincentarelbundock/tinysnapshot
-	shallow = true
-	registered = false
