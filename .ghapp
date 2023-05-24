@@ -5,5 +5,6 @@
   "permissions": {
     "metadata": "read",
     "statuses": "write"
-  }
+  },
+  "repositories": ["etwfe", "ggiplot", "lecturenotes", "lfe2fixest", "parttree", "plot2", "ritest"]
 }
