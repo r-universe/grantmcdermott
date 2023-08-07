@@ -8,6 +8,12 @@
 [submodule "ggiplot"]
 	path = ggiplot
 	url = https://github.com/grantmcdermott/ggiplot
+[submodule "lecturenotes"]
+	path = lecturenotes
+	url = https://github.com/grantmcdermott/lecturenotes
+[submodule "lfe2fixest"]
+	path = lfe2fixest
+	url = https://github.com/grantmcdermott/lfe2fixest
 [submodule "parttree"]
 	path = parttree
 	url = https://github.com/grantmcdermott/parttree
@@ -17,9 +23,3 @@
 [submodule "ritest"]
 	path = ritest
 	url = https://github.com/grantmcdermott/ritest
-[submodule "lecturenotes"]
-	path = lecturenotes
-	url = https://github.com/grantmcdermott/lecturenotes
-[submodule "lfe2fixest"]
-	path = lfe2fixest
-	url = https://github.com/grantmcdermott/lfe2fixest
