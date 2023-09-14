@@ -1,0 +1,8 @@
+[
+  {
+    "package": "fixest",
+    "url": "https://github.com/lrberge/fixest",
+    "via": ["ggiplot"],
+    "from": "ggiplot"
+  }
+]
