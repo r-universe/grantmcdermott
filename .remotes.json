@@ -4,11 +4,5 @@
     "url": "https://github.com/etiennebacher/altdoc",
     "via": ["plot2"],
     "from": "plot2"
-  },
-  {
-    "package": "fixest",
-    "url": "https://github.com/lrberge/fixest",
-    "via": ["ggiplot"],
-    "from": "ggiplot"
   }
 ]
