@@ -6,5 +6,5 @@
     "metadata": "read",
     "statuses": "write"
   },
-  "repositories": ["parttree", "lecturenotes", "lfe2fixest", "ggiplot", "ritest", "etwfe", "plot2"]
+  "repositories": ["parttree", "lecturenotes", "lfe2fixest", "ggfixest", "ritest", "etwfe", "plot2"]
 }
