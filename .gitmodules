@@ -9,9 +9,9 @@
 [submodule "etwfe"]
 	path = etwfe
 	url = https://github.com/grantmcdermott/etwfe
-[submodule "ggiplot"]
-	path = ggiplot
-	url = https://github.com/grantmcdermott/ggiplot
+[submodule "ggfixest"]
+	path = ggfixest
+	url = https://github.com/grantmcdermott/ggfixest
 [submodule "lecturenotes"]
 	path = lecturenotes
 	url = https://github.com/grantmcdermott/lecturenotes
