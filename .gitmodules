@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/grantmcdermott/universe
+	url = https://github.com/grantmcdermott/grantmcdermott.r-universe.dev
 	branch = HEAD
 [submodule "altdoc"]
 	path = altdoc
