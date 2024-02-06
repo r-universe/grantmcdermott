@@ -21,9 +21,9 @@
 [submodule "parttree"]
 	path = parttree
 	url = https://github.com/grantmcdermott/parttree
-[submodule "plot2"]
-	path = plot2
-	url = https://github.com/grantmcdermott/plot2
 [submodule "ritest"]
 	path = ritest
 	url = https://github.com/grantmcdermott/ritest
+[submodule "tinyplot"]
+	path = tinyplot
+	url = https://github.com/grantmcdermott/tinyplot
