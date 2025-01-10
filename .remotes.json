@@ -1,0 +1,8 @@
+[
+  {
+    "package": "tinyplot",
+    "url": "https://github.com/grantmcdermott/tinyplot",
+    "via": ["parttree"],
+    "from": "parttree"
+  }
+]
