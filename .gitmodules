@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/grantmcdermott/grantmcdermott.r-universe.dev
 	branch = HEAD
-[submodule "duckreg"]
-	path = duckreg
-	url = https://github.com/grantmcdermott/duckreg
+[submodule "dbreg"]
+	path = dbreg
+	url = https://github.com/grantmcdermott/dbreg
 [submodule "etwfe"]
 	path = etwfe
 	url = https://github.com/grantmcdermott/etwfe
