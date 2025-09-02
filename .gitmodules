@@ -21,10 +21,6 @@
 [submodule "lfe2fixest"]
 	path = lfe2fixest
 	url = https://github.com/grantmcdermott/lfe2fixest
-[submodule "marginaleffects"]
-	path = marginaleffects
-	url = https://github.com/vincentarelbundock/marginaleffects
-	registered = false
 [submodule "parttree"]
 	path = parttree
 	url = https://github.com/grantmcdermott/parttree

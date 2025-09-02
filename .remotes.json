@@ -4,11 +4,5 @@
     "url": "https://github.com/tidyverse/ggplot2",
     "via": ["ggfixest"],
     "from": "ggfixest"
-  },
-  {
-    "package": "marginaleffects",
-    "url": "https://github.com/vincentarelbundock/marginaleffects",
-    "via": ["etwfe"],
-    "from": "etwfe"
   }
 ]
