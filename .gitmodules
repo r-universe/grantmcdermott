@@ -11,6 +11,10 @@
 [submodule "ggfixest"]
 	path = ggfixest
 	url = https://github.com/grantmcdermott/ggfixest
+[submodule "jgd"]
+	path = jgd
+	url = https://github.com/grantmcdermott/jgd
+	subdir = r-pkg
 [submodule "lecturenotes"]
 	path = lecturenotes
 	url = https://github.com/grantmcdermott/lecturenotes
